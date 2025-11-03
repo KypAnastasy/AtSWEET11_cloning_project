@@ -12,7 +12,7 @@
 Project: In Silico Design of Expression Vector for AtSWEET11 Gene
 Project Overview
 
-This repository contains the in silico design of a plant expression vector for constitutive expression of the AtSWEET11 gene under the CaMV 35S promoter with the NOS terminator. The vector was assembled using the Gateway MultiSite recombination system (4-1-2-3). All sequences were retrieved from NCBI, and Gateway adapters were used for recombination. The project aims to generate a stable expression system for functional studies of the AtSWEET11 gene, which encodes a sugar transporter involved in carbohydrate allocation.
+This repository contains the in silico design of a plant expression vector for constitutive expression of the AtSWEET11 gene under the CaMV 35S promoter with the NOS terminator. The vector was assembled using the Gateway MultiSite recombination system (4-1-2-3). All sequences were obtained from NCBI, vector sequences were obtained from NovoPro, and adapters from Cloning – Gateway BP-Reaction II by A. Untergasser were used for recombination. The project aims to generate a stable expression system for functional studies of the AtSWEET11 gene, which encodes a sugar transporter involved in carbohydrate allocation.
 
 Design Strategy
 
@@ -65,7 +65,7 @@ The Gateway system allows for efficient modular assembly of genetic elements wit
 Проект: Разработка in silico вектора экспрессии для гена AtSWEET11
 Обзор проекта
 
-В этом репозитории содержится разработка in silico вектора экспрессии для растений, обеспечивающего конститутивную экспрессию гена AtSWEET11 под промотором 35S вируса CaMV с терминатором NOS. Вектор был собран с использованием системы многосайтовой рекомбинации Gateway (4-1-2-3). Все последовательности были получены из NCBI, а для рекомбинации использовались адаптеры Gateway. Цель проекта — создание стабильной системы экспрессии для функциональных исследований гена AtSWEET11, кодирующего транспортер сахаров, участвующий в распределении углеводов.
+В этом репозитории содержится разработка in silico вектора экспрессии для растений, обеспечивающего конститутивную экспрессию гена AtSWEET11 под промотором 35S вируса CaMV с терминатором NOS. Вектор был собран с использованием системы многосайтовой рекомбинации Gateway (4-1-2-3). Все последовательности были получены из NCBI, последовательности векторов получены из NovoPro, а для рекомбинации использовались адаптеры из Cloning – Gateway BP-Reaction II by A. Untergasser. Цель проекта — создание стабильной системы экспрессии для функциональных исследований гена AtSWEET11, кодирующего транспортер сахаров, участвующий в распределении углеводов.
 
 Стратегия разработки
 
